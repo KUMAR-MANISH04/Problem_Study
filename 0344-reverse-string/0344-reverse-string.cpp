@@ -12,12 +12,5 @@ class Solution
             start++;
             end--;
         }
-        cout<<"[";
-        int i;
-        for(i=0;i<s.size();i++)
-        {
-            cout<<"""<<s[i]<<"""<<",";
-        }
-        cout<<"""<<s[i+1]<<"""<<"]";
     }
 };
