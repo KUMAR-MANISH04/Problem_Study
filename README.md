@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String Matching
 |  |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |
