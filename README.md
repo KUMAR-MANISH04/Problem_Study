@@ -212,6 +212,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -222,4 +223,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
