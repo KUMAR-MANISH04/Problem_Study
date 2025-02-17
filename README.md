@@ -47,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1160-letter-tile-possibilities) |
 | [1524-string-matching-in-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -75,6 +76,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -123,6 +125,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -227,6 +230,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
