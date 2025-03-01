@@ -31,6 +31,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3447-clear-digits) |
 ## Data Stream
@@ -283,4 +285,8 @@
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
