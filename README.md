@@ -48,6 +48,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -320,4 +322,5 @@
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
