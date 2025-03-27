@@ -46,6 +46,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2792-neighboring-bitwise-xor) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -127,6 +128,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -262,6 +264,7 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Topological Sort
