@@ -60,6 +60,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -195,6 +196,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3001-apply-operations-to-maximize-score) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -254,6 +256,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2681-put-marbles-in-bags) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
@@ -416,6 +419,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2690-house-robber-iv) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3643-zero-array-transformation-ii) |
 ## Queue
 |  |
@@ -425,6 +429,7 @@
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3001-apply-operations-to-maximize-score) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Combinatorics
 |  |
 | ------- |
@@ -442,10 +447,12 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2280-count-good-triplets-in-an-array) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2280-count-good-triplets-in-an-array) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
 | ------- |
