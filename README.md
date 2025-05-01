@@ -32,6 +32,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2145-grid-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2262-solving-questions-with-brainpower) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0768-partition-labels) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2509-minimize-xor) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0368-largest-divisible-subset) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2681-put-marbles-in-bags) |
@@ -427,6 +430,7 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2665-minimum-time-to-repair-cars) |
@@ -436,6 +440,7 @@
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
@@ -473,5 +478,6 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
