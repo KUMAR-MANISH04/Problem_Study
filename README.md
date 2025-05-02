@@ -86,6 +86,7 @@
 | [0368-largest-divisible-subset](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1063-best-sightseeing-pair) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1170-shortest-common-supersequence) |
@@ -407,6 +409,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2588-maximum-number-of-points-from-grid-queries) |
