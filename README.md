@@ -88,6 +88,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
@@ -162,6 +163,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [2681-put-marbles-in-bags](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3647-zero-array-transformation-iii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 |  |
 | ------- |
@@ -301,6 +304,7 @@
 | [2681-put-marbles-in-bags](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2681-put-marbles-in-bags) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -360,6 +364,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Topological Sort
 |  |
