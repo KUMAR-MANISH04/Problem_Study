@@ -434,6 +434,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3321-type-of-triangle) |
@@ -536,6 +537,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
@@ -543,6 +545,7 @@
 | [1656-count-good-triplets](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
 |  |
 | ------- |
