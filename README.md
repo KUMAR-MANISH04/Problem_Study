@@ -39,6 +39,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2145-grid-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2215-finding-3-digit-even-numbers) |
