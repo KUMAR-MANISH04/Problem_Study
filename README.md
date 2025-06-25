@@ -41,6 +41,7 @@
 | [2107-find-unique-binary-string](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -546,6 +547,7 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
