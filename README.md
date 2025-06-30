@@ -10,6 +10,7 @@
 | [0368-largest-divisible-subset](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -299,6 +301,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1364-tuple-with-same-product) |
@@ -422,6 +425,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -550,6 +554,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0594-longest-harmonious-subsequence) |
 | [2478-longest-nice-subarray](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2626-count-the-number-of-good-subarrays) |
