@@ -250,6 +250,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -488,6 +489,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3637-count-number-of-balanced-permutations) |
@@ -614,6 +616,7 @@
 | ------- |
 | [2050-count-good-numbers](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
