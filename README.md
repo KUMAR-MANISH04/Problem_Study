@@ -36,6 +36,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -551,6 +552,7 @@
 | [0768-partition-labels](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2551-apply-operations-to-an-array) |
@@ -578,6 +580,7 @@
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2280-count-good-triplets-in-an-array) |
