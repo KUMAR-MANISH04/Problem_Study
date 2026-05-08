@@ -103,6 +103,7 @@
 | [3483-alternating-groups-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3639-zero-array-transformation-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3647-zero-array-transformation-iii) |
@@ -237,6 +238,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -344,6 +346,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2793-count-the-number-of-complete-components) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
@@ -495,6 +498,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -564,6 +568,7 @@
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3001-apply-operations-to-maximize-score) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
 |  |
 | ------- |
