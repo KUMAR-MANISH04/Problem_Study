@@ -33,6 +33,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -292,6 +293,7 @@
 | [0768-partition-labels](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -439,6 +441,7 @@
 | [0368-largest-divisible-subset](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2215-finding-3-digit-even-numbers) |
