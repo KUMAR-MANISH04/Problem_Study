@@ -34,6 +34,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1656-count-good-triplets) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -187,6 +188,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2145-grid-game) |
@@ -215,6 +217,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/2059-unique-length-3-palindromic-subsequences) |
