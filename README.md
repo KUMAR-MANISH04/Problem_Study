@@ -7,6 +7,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0416-partition-equal-subset-sum) |
@@ -589,6 +590,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KUMAR-MANISH04/Problem_Study/tree/master/1855-maximum-distance-between-a-pair-of-values) |
